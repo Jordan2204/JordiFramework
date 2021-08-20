@@ -1,5 +1,5 @@
 # JordiFramework 
-## A Mysql query buider for PHP
+## A Mysql query builder for PHP
 
 ## Features
 
